@@ -8,6 +8,7 @@ Jurusan : Cyber Security
 Mata Kuliah : COMP6548001 - Programming for Penetration Testing
 
 PasteBin Sebagai C&C
+
 Kondisi ini adalah step post-exploitation. Asumsi agent sudah terpasang di host. Buatlah script python dan taruh di git.
  
 Lakukan Host Reconnaissance pada agent.
